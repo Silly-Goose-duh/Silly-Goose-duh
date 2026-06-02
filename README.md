@@ -1,12 +1,27 @@
-👋 Hi, I’m @Silly-Goose-duh here bitch,
+# Hey, I'm Silly Goose 👋
 
+Full-stack developer building real things — wedding RSVP platforms, portfolios, and tools that people actually use.
 
--🚀 Tech Enthusiast | Aspiring Developer | Event Coordinator | Kitchen Goose Chef					
--👀 I’m interested in open-source projects and quacking up some shit!
--🌱 I’m currently learning C, Python, HTML, CSS, and JavaScript—trying to code as fast as I can waddle! QUACK! QUACK!
--💞️ I’m looking to collaborate on projects that are egg-cellent and make the world a bit more fun.
--📫 How to reach me: gooseisback4u@gmail.com [but no honking, please!]
--😄 Pronouns: quack/quack
--⚡ Fun fact: I love cooking, especially when it involves making a mess in the kitchen—just like a goose! just kiding lmao.
+## 🛠 Tech
 
-----------------------Later Gaters-----------------------
+**Languages:** TypeScript, JavaScript, Python, C, C++, HTML, CSS  
+**Frontend:** React 19, Vite, Framer Motion  
+**Backend:** Supabase, PostgreSQL, REST APIs  
+**Deployment:** Vercel, Netlify, GitHub Pages  
+**Tools:** Git, Figma, Sharp, OpenStreetMap
+
+## 📌 Projects
+
+- **[Sharon Weds Amala](https://sharonwedsamala.vercel.app)** — Wedding RSVP website with Supabase backend, multi-theme UI, Google Calendar integration, deployed on Vercel
+- **[Tomson J Finosh Portfolio](https://github.com/Silly-Goose-duh/tomson-j-finosh-portfolio)** — Personal portfolio site
+- **[Leet Code Solutions](https://github.com/Silly-Goose-duh/Leet-code)** — DSA problem solutions in C++
+- **[Figma Plugin Dev Intro](https://github.com/Silly-Goose-duh/figma-plugin-dev-intro)** — Guide to building Figma plugins
+
+## 📬 Contact
+
+- Email: gooseisback4u@gmail.com
+- GitHub: [github.com/Silly-Goose-duh](https://github.com/Silly-Goose-duh)
+
+---
+
+*Learning in public, shipping often, and building things that matter.*
