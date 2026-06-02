@@ -1,6 +1,7 @@
 # Hey, I'm Silly Goose 👋
 
-Full-stack developer building real things — wedding RSVP platforms, portfolios, and tools that people actually use.
+Full-stack developer building real things 
+Tech enthusiast, builder, and community leader — turning ambitious ideas into real projects that bring people together.
 
 ## 🛠 Tech
 
@@ -12,8 +13,8 @@ Full-stack developer building real things — wedding RSVP platforms, portfolios
 
 ## 📌 Projects
 
-- **[Sharon Weds Amala](https://sharonwedsamala.vercel.app)** — Wedding RSVP website with Supabase backend, multi-theme UI, Google Calendar integration, deployed on Vercel
 - **[Tomson J Finosh Portfolio](https://github.com/Silly-Goose-duh/tomson-j-finosh-portfolio)** — Personal portfolio site
+- **[Sharon Weds Amala](https://sharonwedsamala.vercel.app)** — Wedding RSVP website with Supabase backend, multi-theme UI, Google Calendar integration, deployed on Vercel
 - **[Leet Code Solutions](https://github.com/Silly-Goose-duh/Leet-code)** — DSA problem solutions in C++
 - **[Figma Plugin Dev Intro](https://github.com/Silly-Goose-duh/figma-plugin-dev-intro)** — Guide to building Figma plugins
 
