@@ -15,6 +15,7 @@ Tech enthusiast, builder, and community leader — turning ambitious ideas into 
 
 - **[Tomson J Finosh Portfolio](https://github.com/Silly-Goose-duh/tomson-j-finosh-portfolio)** — Personal portfolio site
 - **[Sharon Weds Amala](https://sharonwedsamala.vercel.app)** — Wedding RSVP website with Supabase backend, multi-theme UI, Google Calendar integration, deployed on Vercel
+- **[CampusPass](https://mec-campuspass.vercel.app)** — MEC's official event platform. Org-managed events, Google Forms-style registration, superadmin MC panel, real-time analytics. React + TypeScript + Supabase + Framer Motion. [Source](https://github.com/Silly-Goose-duh/MakeYourPass)
 - **[Leet Code Solutions](https://github.com/Silly-Goose-duh/Leet-code)** — DSA problem solutions in C++
 - **[Figma Plugin Dev Intro](https://github.com/Silly-Goose-duh/figma-plugin-dev-intro)** — Guide to building Figma plugins
 
