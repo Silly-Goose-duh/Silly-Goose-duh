@@ -1,68 +1,80 @@
 <div align="center">
-  <img src="banner.svg" alt="Silly Goose — Full-Stack Developer" width="100%">
+  <img src="banner.svg" alt="Silly Goose — AI, Marketing and Personal Branding" width="100%">
 </div>
 
 <br>
 
 ## Hey, I'm Silly Goose 👋
 
-Full-stack developer building AI products and real-world web apps — from ad-tech platforms to Android agents.
+I work at the intersection of **AI**, **marketing** and **personal branding**.
 
-I care about shipping things that actually get used, and learning in public while I do it.
+I build agentic AI systems that do real work, run ad-tech that ties marketing spend to outcomes, and help founders and creators build brands that hold up under scrutiny. Most of my work ships — this profile is the receipts.
 
-## 🛠 Tech
+## 🎯 What I Do
 
-**Languages:** TypeScript, JavaScript, Python, Kotlin, C++, HTML, CSS
-**Frontend:** React 19, Next.js, Vite, Tailwind CSS, Framer Motion
-**Backend:** Supabase, PostgreSQL, REST APIs, Python
-**Mobile:** Kotlin, Jetpack Compose
-**Deployment:** Vercel, Netlify, GitHub Pages
-**Tools:** Git, Figma, OpenStreetMap, AI agent tooling
+**AI & Agent Systems**
+Agentic products, LLM tooling, and memory infrastructure for coding agents. I build the layer that makes AI useful rather than a demo.
 
-## 🚀 Featured Projects
+**Marketing & Ad-Tech**
+Ad platforms, campaign tooling, and analytics that connect spend to measurable outcomes. NeuroAd is my own ad-tech build.
 
-### NeuroAd
-An ad-tech platform with a Next.js frontend and a standalone landing page.
-**[NeuroAd-frontend](https://github.com/Silly-Goose-duh/NeuroAd-frontend)** · **[neuroad](https://github.com/Silly-Goose-duh/neuroad)**
+**Personal Branding**
+Positioning, narrative, and identity work — for myself, for founders, and for small teams. A brand is a promise you have to keep on schedule.
+
+## 🚀 Selected Work
+
+### AI & Agents
+
+**DOT** — Android-first personal productivity AI agent
+Kotlin · Jetpack Compose · MVVM
+[github.com/Silly-Goose-duh/DOT](https://github.com/Silly-Goose-duh/DOT)
+
+**echo (sheleftme)** — A vibe therapist companion. Voice and chat, built for people who'd rather talk than type.
+Python · LLM · Voice
+[github.com/Silly-Goose-duh/echo](https://github.com/Silly-Goose-duh/echo)
+
+**agent-vault** — Quiet personal memory for coding agents
+Python
+[github.com/Silly-Goose-duh/agent-vault](https://github.com/Silly-Goose-duh/agent-vault)
+
+**Refro** — Local web dashboard for DeepSeek Harness: chat, one-click tasks, skills, apps, automations
+TypeScript · React · Vite
+[github.com/Silly-Goose-duh/Refro](https://github.com/Silly-Goose-duh/Refro)
+
+### Marketing & Ad-Tech
+
+**NeuroAd** — Ad-tech platform. Campaign tooling, targeting, and analytics that tie spend to outcomes.
+[NeuroAd-frontend](https://github.com/Silly-Goose-duh/NeuroAd-frontend) · [neuroad](https://github.com/Silly-Goose-duh/neuroad)
 TypeScript · Next.js · React · Supabase · Tailwind · Vercel
 
-### DOT
-An Android-first personal productivity AI agent.
-**[DOT](https://github.com/Silly-Goose-duh/DOT)**
-Kotlin · Jetpack Compose · MVVM
-
-### echo (sheleftme)
-A vibe therapist companion — voice and chat, built for people who'd rather talk than type.
-**[echo](https://github.com/Silly-Goose-duh/echo)**
-Python · LLM · Voice
-
-### CampusPass
-MEC's event platform — org-managed events, Google Forms-style registration, superadmin panel, real-time analytics.
-**[MakeYourPass](https://github.com/Silly-Goose-duh/MakeYourPass)** · [Live](https://mec-campuspass.vercel.app)
+**CampusPass** — MEC's official event platform. Org-managed events, Google Forms-style registration, superadmin MC panel, real-time analytics.
+[Source](https://github.com/Silly-Goose-duh/MakeYourPass) · [Live](https://mec-campuspass.vercel.app)
 TypeScript · React · Supabase · Framer Motion · Vercel
 
-### Sharon Weds Amala
-A wedding RSVP site with Supabase backend, multi-theme UI and Google Calendar integration.
-**[sharon-weds-amala](https://github.com/Silly-Goose-duh/sharon-weds-amala)** · [Live](https://sharonwedsamala.vercel.app)
-TypeScript · Supabase · Vercel
+### Brand & Client Work
 
-### Agent Vault
-Quiet personal memory for coding agents.
-**[agent-vault](https://github.com/Silly-Goose-duh/agent-vault)**
-Python
+**Sharon Weds Amala** — Wedding RSVP platform with multi-theme UI, Supabase backend and Google Calendar integration
+[Source](https://github.com/Silly-Goose-duh/sharon-weds-amala) · [Live](https://sharonwedsamala.vercel.app)
 
-### Refro
-A local web dashboard for DeepSeek Harness — chat, one-click tasks, skills, apps and automations.
-**[Refro](https://github.com/Silly-Goose-duh/Refro)**
-TypeScript · React · Vite
+**neuro.ad** — Brand identity and landing experience for an ad-tech product. The brand system behind this profile.
+[neuroad](https://github.com/Silly-Goose-duh/neuroad)
 
-## 🧰 Tools & Notes
+## 🛠 Stack
 
-- **[Tomson J Finosh Portfolio](https://github.com/Silly-Goose-duh/tomson-j-finosh-portfolio)** — Personal portfolio site · [Live](https://tomson-j-finosh.vercel.app)
+**AI:** LLM agent design, prompt architecture, agent memory, DeepSeek Harness
+**Languages:** TypeScript, Python, Kotlin, JavaScript, C++, HTML, CSS
+**Frontend:** React 19, Next.js, Vite, Tailwind CSS, Framer Motion
+**Backend:** Supabase, PostgreSQL, REST APIs
+**Mobile:** Kotlin, Jetpack Compose
+**Deploy:** Vercel, Netlify, GitHub Pages
+**Brand:** Positioning, design systems, Figma
+
+## 🧰 More
+
+- **[Personal Portfolio](https://github.com/Silly-Goose-duh/tomson-j-finosh-portfolio)** — [Live](https://tomson-j-finosh.vercel.app)
 - **[Figma Plugin Dev Intro](https://github.com/Silly-Goose-duh/figma-plugin-dev-intro)** — Guide to building Figma plugins
-- **[Leet Code Solutions](https://github.com/Silly-Goose-duh/Leet-code)** — DSA solutions in C++
-- **[Password Generator](https://github.com/Silly-Goose-duh/password-generator)** — Secure random passwords with slot metrics
 - **[Blog](https://github.com/Silly-Goose-duh/Blog.github.io)** — Writing on perspective and reflection
+- **[Leet Code Solutions](https://github.com/Silly-Goose-duh/Leet-code)** — DSA in C++
 
 ## 📬 Contact
 
