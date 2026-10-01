@@ -12,22 +12,14 @@ I build agentic AI systems that do real work, run ad-tech that ties marketing sp
 
 ## Work
 
-### AI & Agents
+**AI & Agents**
+[DOT](https://github.com/Silly-Goose-duh/DOT) · [echo](https://github.com/Silly-Goose-duh/echo) · [agent-vault](https://github.com/Silly-Goose-duh/agent-vault) · [Refro](https://github.com/Silly-Goose-duh/Refro)
 
-- [DOT](https://github.com/Silly-Goose-duh/DOT)
-- [echo](https://github.com/Silly-Goose-duh/echo)
-- [agent-vault](https://github.com/Silly-Goose-duh/agent-vault)
-- [Refro](https://github.com/Silly-Goose-duh/Refro)
+**Marketing & Ad-Tech**
+[NeuroAd](https://github.com/Silly-Goose-duh/NeuroAd-frontend) · [neuro.ad](https://github.com/Silly-Goose-duh/neuroad) · [CampusPass](https://github.com/Silly-Goose-duh/MakeYourPass)
 
-### Marketing & Ad-Tech
-
-- [NeuroAd](https://github.com/Silly-Goose-duh/NeuroAd-frontend)
-- [neuro.ad](https://github.com/Silly-Goose-duh/neuroad)
-- [CampusPass](https://github.com/Silly-Goose-duh/MakeYourPass)
-
-### Brand & Client
-
-- [Sharon Weds Amala](https://github.com/Silly-Goose-duh/sharon-weds-amala)
+**Brand & Client**
+[Sharon Weds Amala](https://github.com/Silly-Goose-duh/sharon-weds-amala)
 
 ## 🛠 Stack
 
@@ -41,14 +33,11 @@ I build agentic AI systems that do real work, run ad-tech that ties marketing sp
 
 ## 🧰 More
 
-- **[Personal Portfolio](https://github.com/Silly-Goose-duh/tomson-j-finosh-portfolio)** — [Live](https://tomson-j-finosh.vercel.app)
-- **[Figma Plugin Dev Intro](https://github.com/Silly-Goose-duh/figma-plugin-dev-intro)**
-- **[Blog](https://github.com/Silly-Goose-duh/Blog.github.io)**
+[Personal Portfolio](https://github.com/Silly-Goose-duh/tomson-j-finosh-portfolio) · [Figma Plugin Dev Intro](https://github.com/Silly-Goose-duh/figma-plugin-dev-intro) · [Blog](https://github.com/Silly-Goose-duh/Blog.github.io)
 
 ## 📬 Contact
 
-- Email: gooseisback4u@gmail.com
-- GitHub: [github.com/Silly-Goose-duh](https://github.com/Silly-Goose-duh)
+gooseisback4u@gmail.com · [github.com/Silly-Goose-duh](https://github.com/Silly-Goose-duh)
 
 ---
 
