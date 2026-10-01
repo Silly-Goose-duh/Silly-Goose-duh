@@ -1,4 +1,10 @@
-# Hey, I'm Silly Goose 👋
+<div align="center">
+  <img src="banner.svg" alt="Silly Goose — Full-Stack Developer" width="100%">
+</div>
+
+<br>
+
+## Hey, I'm Silly Goose 👋
 
 Full-stack developer building AI products and real-world web apps — from ad-tech platforms to Android agents.
 
