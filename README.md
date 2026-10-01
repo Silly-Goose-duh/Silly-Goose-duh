@@ -12,13 +12,22 @@ I build agentic AI systems that do real work, run ad-tech that ties marketing sp
 
 ## Work
 
-**AI & Agents**
+### AI & Agents
+
+<img src="cards-ai.svg" alt="DOT, echo, agent-vault, Refro" width="100%">
+
 [DOT](https://github.com/Silly-Goose-duh/DOT) · [echo](https://github.com/Silly-Goose-duh/echo) · [agent-vault](https://github.com/Silly-Goose-duh/agent-vault) · [Refro](https://github.com/Silly-Goose-duh/Refro)
 
-**Marketing & Ad-Tech**
+### Marketing & Ad-Tech
+
+<img src="cards-marketing.svg" alt="NeuroAd, neuro.ad, CampusPass" width="100%">
+
 [NeuroAd](https://github.com/Silly-Goose-duh/NeuroAd-frontend) · [neuro.ad](https://github.com/Silly-Goose-duh/neuroad) · [CampusPass](https://github.com/Silly-Goose-duh/MakeYourPass)
 
-**Brand & Client**
+### Brand & Client
+
+<img src="cards-brand.svg" alt="Sharon Weds Amala" width="65%">
+
 [Sharon Weds Amala](https://github.com/Silly-Goose-duh/sharon-weds-amala)
 
 ## 🛠 Stack
